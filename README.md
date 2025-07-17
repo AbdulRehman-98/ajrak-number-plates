@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="ajrak-banner.jpg" alt="Sindh Ajrak Style Banner" width="100%" />
+  <img src="ajrak-banner.png" alt="Sindh Ajrak Style Banner" width="100%" />
 </p>
 
 # Sindh Ajrak Style Number Plate – Free PSD 🎨
